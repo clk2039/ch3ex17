@@ -1,6 +1,6 @@
 /*
 File name: ch3ex17.cpp
-Github URL: 
+Github URL: https://github.com/clk2039/ch3ex17.git
 Programmer: Kit Miller
 Date: September 2025
 Requirements: Write a program that can be used as a math tutor for young children. The program should display two random
